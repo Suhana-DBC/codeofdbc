@@ -1,0 +1,100 @@
+body{
+    margin: 0;
+}
+
+
+#pic>img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1100px;
+    height: 400px;
+    border-radius: 0px 0px 20px 20px; 
+    box-shadow: 1px 2px 15px 5px rgb(173, 173, 173);
+    
+}
+#pic p{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-80%, -60%);
+    color: rgb(255, 253, 253);
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 3px 6px rgba(2, 2, 48, 0.936);
+}
+
+.About h3{
+ font-size: 30px;
+ color: rgb(58, 7, 105);
+}
+
+.About li{
+    list-style: none;
+}
+
+.About .order{
+    text-decoration: underline;
+    line-height: 15px;
+     
+}
+
+.About p{
+    font-size: 20px;
+    line-height: 25px;
+}
+
+#button button{
+    height: 50px;
+    width: 320px;
+    background-color: indigo;
+    margin-left: 500px;
+    font-size: 20px;
+    border: none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    
+}
+
+
+
+#button a{
+    text-decoration: none;
+    color: white;
+    font-family: serif;
+   
+}
+
+#list a{
+    font-family: serif;
+    font-size: 20px;
+    color: blue;
+}
+
+#list{
+    list-style: circle;
+    margin-left: 30px;
+}
+
+.bottom{
+    width: auto;
+    height: 35px;
+    background-color:rgb(54, 2, 143);
+    margin-top: 10px;
+}
+
+.bottom p{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 10px;
+
+}
+
+#pic h1 a{
+    margin-left: 10px;
+    text-decoration: none;
+    font-size: 37px;
+    color:brown
+   
+}

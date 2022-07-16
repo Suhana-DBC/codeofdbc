@@ -1,0 +1,167 @@
+body{
+    margin: 0%;
+    
+    
+}
+
+.head{
+    width: auto;
+    height: 100px;
+    background-color: rgb(255, 189, 89);
+    margin-top: -50px;
+    margin-bottom: 40px;
+    border-radius: 50px 50px 0px ;
+}
+
+.head h1{
+    font-weight: bold;
+    font-size: 35px;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 20px;
+    color: rgba(72, 9, 9, 0.887);
+}
+
+.head h1 a{
+    text-decoration: none;
+}
+
+
+.head h2{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 45px;
+    position: relative;
+    text-decoration: underline;
+    text-align: center;
+    padding-top: 40px;
+    color: rgb(43, 7, 76);
+}
+
+
+.row1{
+    width: auto;
+    height: 200px;
+    background-color: rgb(91, 91, 248);
+    
+}
+
+.pic1 img{
+    margin-left: 100px;
+    margin-top: 10px;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px 20px 10px 20px;
+    border: 3px solid white;
+}
+
+
+
+.row2{
+    width: auto;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    margin-top: -22px;
+    
+}
+
+.row3{
+    width: auto;
+    height: 200px;
+    background-color: rgb(124, 202, 238);
+    
+}
+
+
+.text1 p{
+    color:white;
+    margin-left: 300px;
+    margin-top: 20px;
+    line-height: 30px;
+    font-size: 20px;
+    text-align: justify;
+    margin-right: 20px;
+}
+
+.text1 h1{
+    color: white;
+    font-weight: bold;
+    margin-top: -150px;
+    margin-left: 300px;
+}
+
+.text1 h2{
+    color: white;
+    font-weight: bold;
+    margin-top: -20px;
+    margin-left: 300px;
+}
+
+.pic2 img{
+        margin-left: 1100px;
+        width: 150px;
+        height: 150px;
+        border-radius: 10px 20px 10px 20px;
+        margin-top: -150px;
+        border: 3px solid white;
+}
+
+.text2 h1{
+    color: rgb(13, 0, 255);
+    font-weight: bold;
+    margin-right: 300px;
+    padding-top: 20px;
+    
+    text-align: right;
+}
+
+.text2 h2{
+    color: rgb(13, 0, 255);
+    font-weight: bold;
+    margin-right: 300px;
+    text-align: right;
+}
+
+.text2 h3{
+    color: rgb(13, 0, 255);
+    font-weight: bold;
+    margin-right: 300px;
+     
+    text-align: right;
+}
+
+.text3 h1{
+    color: indigo;
+    font-weight: bold;
+    margin-top: -150px;
+    margin-left: 300px;
+}
+
+.text3 h2{
+    color:indigo;
+    font-weight: bold;
+    margin-left: 300px;
+}
+
+.text3 h3{
+    color: indigo;
+    font-weight: bold;
+    margin-top: -20px;
+    margin-left: 300px;
+}
+
+.bottom{
+    width: auto;
+    height: 35px;
+    background-color:rgb(54, 2, 143);
+    
+    
+}
+
+.bottom p{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 10px;
+
+}
